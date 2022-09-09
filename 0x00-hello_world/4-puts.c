@@ -1,5 +1,7 @@
 #include <stdio.h>
-/* main prints to standard output using puts */
+/**
+ * main prints to standard output using puts
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
