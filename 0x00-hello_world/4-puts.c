@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints to standard output using puts
- * return: 0 if properly set
+ * main - prints the "programming is like..."
+ * return: 0 if properly set, non-zer0 otherwise
  */
 int main(void)
 {
