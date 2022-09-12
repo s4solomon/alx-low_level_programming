@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints alphabbets with the exception of 'e' and 'q' in lowercase followed by new line
+ * main - prints alphabbets with the exception of 'e' and 'q' in lowercase
+ *\ followed by new line
  * Return:zero is succesful
  */
 
