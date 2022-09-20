@@ -9,7 +9,6 @@
 void puts_half(char *str)
 {
 	int i = 0;
-	int j = 0;
 	int n;
 
 	while (str[i] != '\0')
@@ -24,10 +23,10 @@ void puts_half(char *str)
 	{
 		n = ((i - 1) / 2);
 	}
-	while (j <= (n - 1))
+	while (n <= (i - 1))
 	{
-		_putchar(str[j]);
-		j++;
+		_putchar(str[n]);
+		n++;
 	}
 	_putchar('\n');
 }
