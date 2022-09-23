@@ -2,7 +2,7 @@
 
 /**
  * function: _strcmp - compares two strings
- *@s1: 1st string
+ * @s1: 1st string
  * @s2: 2nd string
  * Return: less than 0 if s1 is less than s2, 0 is s1 equals s1
  * greater than 0 if s1 is greater than s2
