@@ -15,8 +15,3 @@ int get_bit(unsigned long int n, unsigned int index)
 	m = 1 << index;
 	return ((n & m) > 0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
